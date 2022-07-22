@@ -1,1 +1,5 @@
-print("This is dev3 file")
+<<<<<<< HEAD
+print("Hello, this is changed file")
+=======
+print("Hello, this is changed file")
+>>>>>>> dev1
